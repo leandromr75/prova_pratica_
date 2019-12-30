@@ -1,0 +1,5 @@
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Piloto\bin\Debug\Piloto.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Piloto\bin\Debug\Piloto.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Piloto\obj\Debug\Piloto.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Piloto\obj\Debug\Piloto.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Piloto\obj\Debug\Piloto.pdb

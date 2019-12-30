@@ -1,0 +1,14 @@
+c:\users\leandro.desktop-9rmfln4\documents\visual studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Resultado.exe.config
+c:\users\leandro.desktop-9rmfln4\documents\visual studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Resultado.exe
+c:\users\leandro.desktop-9rmfln4\documents\visual studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Resultado.pdb
+c:\users\leandro.desktop-9rmfln4\documents\visual studio 2013\Projects\Prova_Pratica\Resultado\obj\Debug\Resultado.exe
+c:\users\leandro.desktop-9rmfln4\documents\visual studio 2013\Projects\Prova_Pratica\Resultado\obj\Debug\Resultado.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Classificação.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Corrida_Log.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Log.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Piloto.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Classificação.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Corrida_Log.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Log.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\bin\Debug\Piloto.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Resultado\obj\Debug\Resultado.csprojResolveAssemblyReference.cache

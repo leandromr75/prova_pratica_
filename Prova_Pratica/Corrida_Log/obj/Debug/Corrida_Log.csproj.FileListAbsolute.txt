@@ -1,0 +1,9 @@
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\bin\Debug\Corrida_Log.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\bin\Debug\Corrida_Log.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\bin\Debug\Piloto.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\bin\Debug\Piloto.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\obj\Debug\Corrida_Log.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\obj\Debug\Corrida_Log.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\obj\Debug\Corrida_Log.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\bin\Debug\Classificação.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Corrida_Log\bin\Debug\Classificação.pdb

@@ -1,0 +1,5 @@
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Classificação\bin\Debug\Classificação.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Classificação\bin\Debug\Classificação.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Classificação\obj\Debug\Classificação.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Classificação\obj\Debug\Classificação.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Classificação\obj\Debug\Classificação.pdb

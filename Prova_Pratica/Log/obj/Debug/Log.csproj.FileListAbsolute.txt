@@ -1,0 +1,7 @@
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\bin\Debug\Log.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\bin\Debug\Log.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\obj\Debug\Log.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\obj\Debug\Log.pdb
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\bin\Debug\Piloto.dll
+C:\Users\Leandro.DESKTOP-9RMFLN4\Documents\Visual Studio 2013\Projects\Prova_Pratica\Log\bin\Debug\Piloto.pdb
